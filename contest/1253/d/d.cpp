@@ -21,7 +21,7 @@ bool Vis[MAXN];
 int Mx[MAXN];
 
 int findFa(int x) {
-	return Fa[x] == x ? x : findFa(Fa[x]);
+	return Fa[x] == x ? x : Fa[x] = findFa(Fa[x]);
 }
 
 void Union(int x, int y) {
