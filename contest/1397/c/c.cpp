@@ -1,7 +1,7 @@
 /* Code Information
  * Author: Skqliao
  * Time: 2020-08-30 22:53:09
- * Url: 
+ * Url: https://codeforces.com/contest/1397/problem/C
 **/
 
 #include <bits/stdc++.h>
@@ -26,13 +26,10 @@ int main() {
 		A[i] -= b;
 		printf("%lld ", -b);
 	}
-	puts("");
-	printf("%d %d\n", 1, N - 1);
+	printf("\n%d %d\n", 1, N - 1);
 	for (int i = 1; i < N; ++i) {
 		printf("%lld ", -A[i]);
 	}
-	puts("");
-	printf("%d %d\n", N, N);
-	printf("%lld\n", -A[N]);
+	printf("\n%d %d\n%lld\n", N, N, -A[N]);
 	return 0;
 }

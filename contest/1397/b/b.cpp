@@ -1,7 +1,7 @@
 /* Code Information
  * Author: Skqliao
  * Time: 2020-08-30 22:39:22
- * Url: 
+ * Url: https://codeforces.com/contest/1397/problem/B
 **/
  
 #include <bits/stdc++.h>
