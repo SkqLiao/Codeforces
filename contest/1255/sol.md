@@ -1,10 +1,10 @@
-# Codeforces Round #601 (Div. 2) 解题报告
+# Codeforces Round #668 (Div. 2) 解题报告
 
 ## 相关链接
 
-- 比赛链接：[Dashboard](https://codeforces.com/contest/1255)
+- 比赛链接：[Dashboard](https://codeforces.com/contest/1405)
 
-- 官方题解：[Editorial](https://codeforces.com/blog/entry/71594)
+- 官方题解：[Editorial](https://codeforces.com/blog/entry/82366)
 
 ## A. [Changing Volume](https://codeforces.com/contest/1255/problem/A)
 
