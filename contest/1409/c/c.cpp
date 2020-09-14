@@ -1,7 +1,7 @@
 /* Code Information
  * Author: little_skqliao
  * Time: 2020-09-04 22:47:41
- * Url: 
+ * Url: https://codeforces.com/contest/1409/problem/C
 **/
 
 #include <bits/stdc++.h>
@@ -32,13 +32,11 @@ int main() {
 					ans = tmp;
 					dv = i;
 				}
-				//cout << i << " : " << tmp << endl;
 				tmp = get(z / i);
 				if (ans > tmp) {
 					ans = tmp;
 					dv = z / i;
 				}
-				//cout << z / i << " : " << tmp << endl;
 			}
 		}
 		for (int i = ans - dv * (n - 1); i <= ans; i += dv) cout << i << " ";
