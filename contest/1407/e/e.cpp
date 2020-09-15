@@ -4,18 +4,18 @@
  * Url: https://codeforces.com/contest/1407/problem/E
 **/
 #include <bits/stdc++.h>
- 
+
 using namespace std;
- 
+
 const int MAXN = 500000 + 5;
 const int INF = 0x3f3f3f3f;
- 
+
 int N, M;
 vector<int> G[MAXN][2];
 int Dis[MAXN][2];
 bool Inq[MAXN];
 queue<int> Que;
- 
+
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
