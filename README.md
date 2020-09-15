@@ -2,7 +2,7 @@
 
 1. [Codeforces Round #600 (Div. 2)](https://codeforces.com/contest/1253)：6/6 [soluton](https://blog.skqliao.com/index.php/archives/15/)
 2. [Codeforces Round #601 (Div. 2)](https://codeforces.com/contest/1255)：7/7 [soluton](https://blog.skqliao.com/index.php/archives/20/)
-3. [Codeforces Round #665 (Div. 2)](https://codeforces.com/contest/1401)：4/6
+3. [Codeforces Round #665 (Div. 2)](https://codeforces.com/contest/1401)：5/6
 4. [Educational Codeforces Round 94 (Rated for Div. 2)](https://codeforces.com/contest/1400)：5/7
 5. [Codeforces Round #666 (Div. 2)](https://codeforces.com/contest/1397)：4/5
 6. [Codeforces Round #667 (Div. 3)](https://codeforces.com/contest/1409)：6/6 [solution](https://blog.skqliao.com/index.php/archives/29/)
