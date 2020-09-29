@@ -319,16 +319,16 @@ $f_{i,j}=min\{f_{i-1,k}\}(k \geq j)$，显然覆盖 $[1,k]$包含了覆盖 $[1,j
  * Author: Skqliao
  * Time: 2020-07-26 21:06:29
 **/
- 
+
 #include <bits/stdc++.h>
- 
+
 const int MAXN = 80 + 5;
 const int MAXM = 100000 + 5;
- 
+
 int N, M;
 std::pair<int, int> A[MAXN];
 int F[MAXM << 1];
- 
+
 int main() {
 	scanf("%d%d", &N, &M);
 	for (int i = 1; i <= N; ++i) scanf("%d%d", &A[i].first, &A[i].second);
