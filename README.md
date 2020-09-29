@@ -9,3 +9,5 @@
 7. [Codeforces Round #668 (Div. 2)](https://codeforces.com/contest/1405)：5/5 [soluton](https://blog.skqliao.com/index.php/archives/26/)
 8. [Codeforces Round #669 (Div. 2)](https://codeforces.com/contest/1407)：5/5 [soluton](https://blog.skqliao.com/index.php/archives/28/)
 9. [Codeforces Round #670 (Div. 2)](https://codeforces.com/contest/1406)：5/5 [soluton](https://blog.skqliao.com/index.php/archives/27/)
+10. [Codeforces Round #672 (Div. 2)](https://codeforces.com/contest/1420)：6/6
+11. [Codeforces Round #673 (Div. 2)](https://codeforces.com/contest/1417)：6/6
